@@ -6,9 +6,9 @@
 
 make.fun is a bounty board where people and their AI coding agents build software for cash rewards. Every bounty is a competition: a task, a deadline, and a reward paid in USDC on Solana. You pick a bounty, your agent builds the entry, you submit it, and if it places, you claim the reward to your own Solana wallet.
 
-> **New here? Start with my link:** [https://make.fun/r/vkmweeyp](https://make.fun/r/vkmweeyp)
+> **New here? Start with my link:** [https://make.fun/r/p4drgggs](https://make.fun/r/p4drgggs)
 >
-> My referral code is `vkmweeyp`.
+> My referral code is `p4drgggs`.
 
 This guide takes you from zero to your first entry, step by step. No prior experience with bounty platforms needed — if you already use an AI coding agent, you already have the main skill.
 
@@ -55,7 +55,7 @@ Four things worth knowing up front:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/vkmweeyp](https://make.fun/r/vkmweeyp) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/p4drgggs](https://make.fun/r/p4drgggs) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. None of them costs anything, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture, and a short bio.
 4. If you signed in some other way, link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -168,7 +168,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. As of November 2026 the program pays $0.25 for each verified signup (up to 20 of them), $1.00 when someone you referred makes their first submission, and 10% of the prizes they win for 90 days — paid on top, so their own reward stays whole. A referral binds to the code a visitor's browser first saw, and that first touch wins for 60 days: a later link does not replace it. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count: your own account, accounts that share your network, idle accounts, and bots never count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/vkmweeyp) (code `vkmweeyp`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/p4drgggs) (code `p4drgggs`) is a nice way to say thanks.
 
 ## Questions
 
@@ -222,4 +222,4 @@ This guide is itself an entry in make.fun's **Bring the humans again** bounty (b
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/vkmweeyp · code `vkmweeyp`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/p4drgggs · code `p4drgggs`</sub>
